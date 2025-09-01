@@ -211,7 +211,9 @@
 #  :spiral_calendar: WBS
 <details>
   <summary> BobIssue WBS 보기 </summary>
+
   [WBS 보기](image/WBS.pdf)
+
 </details>
 
 </br>
@@ -259,7 +261,9 @@
 # :movie_camera: API 연동규격서
 <details>
   <summary> API 연동규격서 보기 </summary>
+
   [API 명세서 보기](image/API.pdf)
+
 </details>
 </br>
 </br>
@@ -1025,6 +1029,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 
 <details>
 <summary> :film_frames: </summary>
+
 ![buy_item](./userGif/상품구매.gif)
 </details>
 
@@ -1032,11 +1037,13 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 - 상품 검색
   <details>
   <summary> :framed_picture: </summary>
+  
   ![search_item](./userImage/상품검색.png)
   </details>
 - 카테고리 별 상품 
   <details>
   <summary> :framed_picture: </summary>
+  
   ![category_item](./userImage/카테고리별%20상품%20확인.png)
   </details>
 - 장바구니 - 수량 변경, 제거 <br>
@@ -1046,6 +1053,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 
 <details>
 <summary> :film_frames: </summary>
+
 ![live_shopping](./userGif/라이브커머스.gif)
 </details>
 
@@ -1056,6 +1064,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 
 <details>
 <summary> :film_frames: </summary>
+
 ![calendar](./userGif/식단관리.gif)
 </details>
 
@@ -1067,6 +1076,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 
 <details>
 <summary> :film_frames: </summary>
+
 ![recipe](./userGif/레시피.gif)
 </details>
 
@@ -1079,18 +1089,21 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 - 마이페이지-정보관리
   <details>
   <summary> :framed_picture: </summary>
+  
   ![mypage-info](./userImage/마이페이지-개인정보수정.png)
   ![mypage-address](./userImage/마이페이지-배송지관리.png)
   </details>
 - 마이페이지-상품관련(주문내역, 후기 등)
   <details>
   <summary> :framed_picture: </summary>
+  
   ![mypage-order](./userImage/마이페이지-주문내역.png)
   ![mypage-review](./userImage/마이페이지-상품후기.png)
   </details>
 - 고객센터(FAQ, 공지사항, 문의)
   <details>
   <summary> :framed_picture: </summary>
+  
   ![board-faq](./userImage/고객센터-FAQ.png)
   ![board-question](./userImage/고객센터-문의하기.png)
   </details>
@@ -1101,6 +1114,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 
 <details>
 <summary> :film_frames: </summary>
+
 ![seller_login]](./sellerGif/회원가입및로그인.gif)
 </details>
 
@@ -1111,6 +1125,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 
 <details>
 <summary> :film_frames: </summary>
+
 ![item](./sellerGif/상품등록 및 조회.gif)
 </details>
 
@@ -1122,6 +1137,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 
 <details>
 <summary> :film_frames: </summary>
+
 ![order](./sellerGif/주문조회.gif)
 </details>
 
@@ -1134,11 +1150,13 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 
 <details>
 <summary> :film_frames: </summary>
+
 ![cast](./sellerGif/라이브신청및방송송출.gif)
 </details>
 
 <details>
 <summary> :film_frames: </summary>
+
 ![cast](./sellerGif/방송송출화면.gif)
 </details>
 
@@ -1150,6 +1168,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 
 <details>
 <summary> :film_frames: </summary>
+
 ![statistics](./sellerGif/판매 통계.gif)
 </details>
 
@@ -1161,6 +1180,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 
 <details>
 <summary> :film_frames: </summary>
+
 ![seller](./sellerGif/회사계정관리리.gif)
 </details>
 
@@ -1183,6 +1203,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 
 <details>
 <summary> :film_frames: </summary>
+
 ![회원정보관리](./admin-images/회원정보관리.gif)
 </details>
 
@@ -1192,6 +1213,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 ### 2. 회원등록
 <details>
 <summary> :film_frames: </summary>
+
 ![엑셀일괄등록](./admin-images/엑셀일괄등록.gif)
 </details>
 
@@ -1202,6 +1224,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 
 <details>
 <summary> :film_frames: </summary>
+
 ![회원메일발송](./admin-images/회원메일발송.gif)
 </details>
 
@@ -1210,6 +1233,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 ### 4. 회원관리(2) - 판매자
 <details>
 <summary> :film_frames: </summary>
+
 ![판매자관리](./admin-images/판매자관리.gif)
 </details>
 
@@ -1220,6 +1244,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 ### 5. 판매자 트리구조
 <details>
 <summary> :film_frames: </summary>
+
 ![판매자 트리구조](./admin-images/판매자%20트리구조.png)
 </details>
 
@@ -1228,6 +1253,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 ### 6. 주문 현황
 <details>
 <summary> :film_frames: </summary>
+
 ![주문현황](./admin-images/주문현황.gif)
 </details>
 
@@ -1236,6 +1262,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 ### 7. 라이브커머스 관리
 <details>
 <summary> :film_frames: </summary>
+
 ![라이브커머스관리](./admin-images/라이브커머스관리.gif)
 </details>
 
@@ -1247,6 +1274,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 <details>
 <summary> :film_frames: </summary>
 - Query DSL API를 활용하여 통계 분석 페이지 제공
+
   ![쿼리dsl통계](./admin-images/쿼리dsl통계.gif)
 </details>
 
